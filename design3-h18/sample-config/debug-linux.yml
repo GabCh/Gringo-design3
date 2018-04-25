@@ -1,0 +1,6 @@
+stmctl:
+  port: "/dev/ttyACM0"
+arduino:
+  port: "/dev/ttyUSB0"
+remote:
+  robot_url: "http://design-whitecat.local:8080"

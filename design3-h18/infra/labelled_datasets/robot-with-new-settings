@@ -1,0 +1,102 @@
+{
+  "image_4.jpg": {
+    "position": [
+      226,
+      357
+    ],
+    "front": [
+      162,
+      356
+    ]
+  },
+  "image_2.jpg": {
+    "position": [
+      910,
+      436
+    ],
+    "front": [
+      955,
+      380
+    ]
+  },
+  "image_5.jpg": {
+    "position": [
+      420,
+      362
+    ],
+    "front": [
+      355,
+      363
+    ]
+  },
+  "image_10.jpg": {
+    "position": [
+      59,
+      598
+    ],
+    "front": [
+      60,
+      538
+    ]
+  },
+  "image_3.jpg": {
+    "position": [
+      784,
+      261
+    ],
+    "front": [
+      842,
+      224
+    ]
+  },
+  "image_8.jpg": {
+    "position": [
+      837,
+      254
+    ],
+    "front": [
+      782,
+      289
+    ]
+  },
+  "image_6.jpg": {
+    "position": [
+      619,
+      369
+    ],
+    "front": [
+      553,
+      371
+    ]
+  },
+  "image_1.jpg": {
+    "position": [
+      1098,
+      275
+    ],
+    "front": [
+      1165,
+      278
+    ]
+  },
+  "image_7.jpg": {
+    "position": [
+      935,
+      420
+    ],
+    "front": [
+      877,
+      451
+    ]
+  },
+  "image_9.jpg": {
+    "position": [
+      1189,
+      244
+    ],
+    "front": [
+      1125,
+      245
+    ]
+  }
+}

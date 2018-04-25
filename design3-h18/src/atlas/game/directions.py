@@ -1,0 +1,6 @@
+# All dimensions in degrees
+
+FACING_EAST = 0
+FACING_NORTH = 90
+FACING_WEST = 180
+FACING_SOUTH = 270

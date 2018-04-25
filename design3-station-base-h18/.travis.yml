@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+- 8.9.4
+cache:
+  directories:
+  - node_modules
+script:
+- npm run eslint  
+- npm run build
+branches:
+  only:
+  - master
+  - develop
+env:
+  global:
+    secure: MNy1+z4GeMcHw9vIvpmRxGT4ystYGnK8kL01u2qEiMfQTsPcEYQbADS4JyK4tr+hxWCBj0ZQb/N12TFw8ZslDAcYkadJU9iXAHNL6kYiUDVC37yNeT+ePEtVMbYLBmfWWCLqptMhosIoYzfL/DOqsHn86Cf1FwAts9b6ujXvdA5lVB4weZtT9aUWAOfOrY4jaZg06elLKxeGJ3YVEz2sPNV5nDg5727wQUrCD8OhU5G0qUClT/QwDFEp/XOHTYL4cW0e3lwo6R0diwQDGqaeZoZdyXtnbv6RM83Pp6zUSpHirnvshViATTNEANBBYwsS+uEm5sDdL2+anHr3XTFemIWkf6yGpYS34i3wnGsdL9t3D3wM4lY1pypsyDdqmO2wLBIjmSd2zgIMiX0gqc/6bk2JQ0kQuFgX/vmZkTr0JGtmsN5pTw2U9hrVS/TarUE/vqlB1gYf5JH6DC6m9Xw2oQUEB2F1QQHvcaztuB55rocgFymztbJLtEnL/9/fKpY1zUw9LT1GXMvTcvo1jzMQI0m9rEtdBSN457eaabpgN0Y/6EMAecWeIAuGUcGTPeiBlK0v7INNNMcuKZ709Tek0roYve+Y4ffVBK7BLBIy8KBUkrIjke+KI/EA9rWeX7eYM4bMnpLCMLDP89gsITfBidPk68mCcAKdkCr9N69sgsI=

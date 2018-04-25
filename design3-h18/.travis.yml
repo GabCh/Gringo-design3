@@ -1,0 +1,23 @@
+language: python
+
+python:
+- '3.6'
+
+branches:
+  only:
+  - master
+
+install:
+- pip install -r requirements.txt
+- export PYTHONPATH=$(pwd)/src:$PYTHONPATH
+
+script:
+- sh run_tests.sh
+
+
+after_success:
+- codecov
+
+notifications:
+  slack:
+    secure: Sjc+YwcOMkuuoVe79P14gpN8/CeazN0VJnXH4zMhpYuQcsG61B5pbMtigU0PLY8Jt30Rdy19fAGi2oy/06es8N4H/lQScpMOtCHNp8bKmYNxBmJRYtQy6DyHvEBM1EHglUzBEyHutlRa5HcMMIqvgx6WkGJH/eYZ1JnBwEMkZu6EjICfetcyfF9vtoGjEVFvvjhzW/Tj5fC0u+3NggV+EokWtvlpuddolup4aRXBZFoUoMXdN7P8SAaRd74cPscsSNEk0aNM1RUTBOpjJXOPT6wnN/AG9j+1b842KLjmlXVjluqkvClUrNXuSIJMpPGD+3ESC7ZzbSJJdvhH/RtpILXN7551UOueI+OAkJOT2SzxEoT/KAjkg2o2mQATTLebYCrhr2EmljXei+bBAOQpS+Hh5RNskcpQUJjSzxPGUKlI9FmSqCpbhKv9yIH0C14cG3nLflc+og0pkBPbxd3x1FODogh3+WnIWGparHvsPiRutYs03E3BL7uogxxIgFecZ4WwQtD9xp6BESQg/F3Bv8ULmLyCjxOz95LKCqt2UfGllLlZRxQWvcBdh6w+kpTNL/ijxw8jMHRjcLKrTgav/qRAhoZeU8hlh64hFDs9tOZJ91DvvT6QCDiUgDREyR+9satS+OAFfqtendDjpZnxNxGJicQJKuG4kkX0P9usSSs=

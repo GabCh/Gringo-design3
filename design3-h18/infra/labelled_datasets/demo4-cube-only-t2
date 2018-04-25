@@ -1,0 +1,453 @@
+{
+    "image_1.jpg": {
+        "blue-block": [],
+        "green-block": [
+            [
+                1266,
+                237
+            ],
+            [
+                1270,
+                341
+            ],
+            [
+                1260,
+                507
+            ]
+        ],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_2.jpg": {
+        "blue-block": [],
+        "green-block": [
+            [
+                1023,
+                92
+            ],
+            [
+                1267,
+                253
+            ],
+            [
+                1084,
+                663
+            ]
+        ],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_3.jpg": {
+        "blue-block": [],
+        "green-block": [
+            [
+                1147,
+                83
+            ],
+            [
+                1265,
+                466
+            ],
+            [
+                956,
+                662
+            ]
+        ],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_4.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [
+            [
+                1102,
+                81
+            ],
+            [
+                1265,
+                282
+            ],
+            [
+                996,
+                666
+            ]
+        ],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_5.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [
+            [
+                1030,
+                80
+            ],
+            [
+                1263,
+                428
+            ],
+            [
+                1115,
+                665
+            ]
+        ],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_6.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [
+            [
+                1263,
+                269
+            ],
+            [
+                1259,
+                405
+            ],
+            [
+                1262,
+                520
+            ]
+        ],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_7.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [
+            [
+                1264,
+                267
+            ],
+            [
+                1260,
+                405
+            ],
+            [
+                1261,
+                523
+            ]
+        ],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_8.jpg": {
+        "blue-block": [
+            [
+                1121,
+                82
+            ],
+            [
+                1265,
+                464
+            ],
+            [
+                937,
+                662
+            ]
+        ],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_9.jpg": {
+        "blue-block": [
+            [
+                1266,
+                238
+            ],
+            [
+                1262,
+                348
+            ],
+            [
+                1262,
+                514
+            ]
+        ],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_10.jpg": {
+        "blue-block": [
+            [
+                995,
+                83
+            ],
+            [
+                1263,
+                443
+            ],
+            [
+                1110,
+                666
+            ]
+        ],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_11.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [],
+        "red-block": [
+            [
+                1257,
+                545
+            ],
+            [
+                1263,
+                411
+            ],
+            [
+                1267,
+                217
+            ]
+        ]
+    },
+    "image_12.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [],
+        "red-block": [
+            [
+                1091,
+                82
+            ],
+            [
+                1266,
+                336
+            ],
+            [
+                994,
+                667
+            ]
+        ]
+    },
+    "image_13.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [],
+        "red-block": [
+            [
+                884,
+                83
+            ],
+            [
+                1265,
+                254
+            ],
+            [
+                1260,
+                446
+            ]
+        ]
+    },
+    "image_14.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [
+            [
+                1265,
+                224
+            ],
+            [
+                1266,
+                358
+            ],
+            [
+                1009,
+                662
+            ]
+        ],
+        "red-block": []
+    },
+    "image_15.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [
+            [
+                1263,
+                270
+            ],
+            [
+                1264,
+                393
+            ],
+            [
+                1259,
+                482
+            ]
+        ],
+        "red-block": []
+    },
+    "image_16.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [
+            [
+                1156,
+                84
+            ],
+            [
+                1260,
+                527
+            ],
+            [
+                959,
+                664
+            ]
+        ],
+        "red-block": []
+    },
+    "image_17.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [
+            [
+                1262,
+                526
+            ],
+            [
+                954,
+                664
+            ]
+        ],
+        "red-block": []
+    },
+    "image_18.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [],
+        "white-block": [
+            [
+                1261,
+                527
+            ],
+            [
+                954,
+                661
+            ]
+        ],
+        "red-block": []
+    },
+    "image_19.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [
+            [
+                1256,
+                217
+            ]
+        ],
+        "white-block": [
+            [
+                949,
+                667
+            ]
+        ],
+        "red-block": []
+    },
+    "image_20.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [
+            [
+                1257,
+                254
+            ],
+            [
+                1251,
+                364
+            ],
+            [
+                1249,
+                469
+            ]
+        ],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_21.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [
+            [
+                1102,
+                83
+            ],
+            [
+                1264,
+                443
+            ],
+            [
+                947,
+                663
+            ]
+        ],
+        "white-block": [],
+        "red-block": []
+    },
+    "image_22.jpg": {
+        "blue-block": [],
+        "green-block": [],
+        "yellow-block": [],
+        "black-block": [
+            [
+                917,
+                80
+            ],
+            [
+                1259,
+                274
+            ],
+            [
+                1047,
+                665
+            ]
+        ],
+        "white-block": [],
+        "red-block": []
+    }
+}

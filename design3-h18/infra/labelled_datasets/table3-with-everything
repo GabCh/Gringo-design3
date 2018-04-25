@@ -1,0 +1,50 @@
+{
+  "image_4.jpg": {
+    "white": [
+      1262,
+      362
+    ]
+  },
+  "image_2.jpg": {
+    "white": [
+      -1,
+      -1
+    ]
+  },
+  "image_5.jpg": {
+    "white": [
+      986,
+      70
+    ]
+  },
+  "image_3.jpg": {
+    "white": [
+      -1,
+      -1
+    ]
+  },
+  "image_8.jpg": {
+    "white": [
+      1261,
+      205
+    ]
+  },
+  "image_6.jpg": {
+    "white": [
+      986,
+      73
+    ]
+  },
+  "image_1.jpg": {
+    "white": [
+      -1,
+      -1
+    ]
+  },
+  "image_7.jpg": {
+    "white": [
+      918,
+      651
+    ]
+  }
+}

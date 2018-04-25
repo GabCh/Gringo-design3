@@ -1,0 +1,93 @@
+{
+  "image_12.jpg": {
+    "robot": [
+      757,
+      304
+    ],
+    "orientation": 0
+  },
+  "image_10.jpg": {
+    "robot": [
+      756,
+      307
+    ],
+    "orientation": 0
+  },
+  "image_13.jpg": {
+    "robot": [
+      582,
+      207
+    ],
+    "orientation": 181
+  },
+  "image_2.jpg": {
+    "robot": [
+      430,
+      489
+    ],
+    "orientation": 270
+  },
+  "image_7.jpg": {
+    "robot": [
+      1018,
+      562
+    ],
+    "orientation": 179
+  },
+  "image_5.jpg": {
+    "robot": [
+      1046,
+      277
+    ],
+    "orientation": 90
+  },
+  "image_6.jpg": {
+    "robot": [
+      1046,
+      277
+    ],
+    "orientation": 90
+  },
+  "image_3.jpg": {
+    "robot": [
+      743,
+      361
+    ],
+    "orientation": 0
+  },
+  "image_8.jpg": {
+    "robot": [
+      780,
+      339
+    ],
+    "orientation": 44
+  },
+  "image_4.jpg": {
+    "robot": [
+      1046,
+      276
+    ],
+    "orientation": 91
+  },
+  "image_14.jpg": {
+    "robot": [
+      566,
+      348
+    ],
+    "orientation": 128
+  },
+  "image_9.jpg": {
+    "robot": [
+      688,
+      540
+    ],
+    "orientation": 279
+  },
+  "image_1.jpg": {
+    "robot": [
+      259,
+      421
+    ],
+    "orientation": 180
+  }
+}
